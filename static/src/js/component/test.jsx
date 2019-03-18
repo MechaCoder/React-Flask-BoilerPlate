@@ -8,7 +8,7 @@ export default class Test extends Component {
 
     render() {
         return (
-            <div>test</div>
+            <div>client</div>
         )
     }
 }
